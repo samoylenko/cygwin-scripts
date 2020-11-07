@@ -12,6 +12,10 @@ Solution borrowed from:
 Our thanks to its author,
 [**matzeri**](https://stackoverflow.com/users/5105383/matzeri)!
 
+## ZSH
+
+To use `zsh` when Cygwin terminal starts, just insert `zsh` as `mintty` parameter at the shortcut: `mintty.exe -i /Cygwin-Terminal.ico zsh -`
+
 ## Cygwin shells with Intellij IDEA
 
 You can use any shell you like with IDEA,
