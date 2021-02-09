@@ -14,7 +14,7 @@ Our thanks to its author,
 
 ## ZSH
 
-To use `zsh` when Cygwin terminal starts, just insert `zsh` as `mintty` parameter at the shortcut: `mintty.exe -i /Cygwin-Terminal.ico zsh -`
+To use `zsh` when Cygwin terminal starts, just insert `zsh` as `mintty` parameter at the shortcut: `mintty.exe -i /Cygwin-Terminal.ico zsh -` (you'll need your cygwin `bin` directory to be on the system path for this)
 
 ## Cygwin shells with Intellij IDEA
 
